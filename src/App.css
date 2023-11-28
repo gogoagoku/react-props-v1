@@ -1,0 +1,11 @@
+.info {
+  background-color:teal;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  
+
+  padding:20px ;
+  color: white;
+ 
+}  
